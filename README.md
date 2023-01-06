@@ -1,1 +1,1 @@
-This is the homepage of open 3D virtual reality.
+This is the homepage of open biotechnology with ML methods.
